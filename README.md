@@ -2,6 +2,12 @@
 
 Various logos for [Tech Jobs Academy](techjobsacademy.com).
 
+## Styles
+
+Two styles currently exist:
+* `logo-tja-lg-*` — square "TJA" logo
+* `logo-tja2-lg-*` — landscape "Tech Jobs Academy" logo
+
 ## Formats
 
 Two file types currently exist in this repository:
